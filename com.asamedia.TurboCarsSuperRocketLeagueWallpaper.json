@@ -6,8 +6,8 @@
 	"json_popup_wait" : "Server Ready . . . .",
 
 
-	"mode_no_ads" : true,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	"mode_no_ads" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	"pengaturan_iklan" : "1",
     "inter_count" : 5,
@@ -25,7 +25,7 @@
     "more_button" : "Share Via WhatsApp",
     "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE ",
 
-    "startapp" : "YOUR_APP_ID",
+    "startapp" : "200137516",
 
 	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
