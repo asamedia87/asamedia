@@ -6,8 +6,8 @@
 	"json_popup_wait" : "Server Ready . . . .",
 
 
-	"mode_no_ads" : true,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	"mode_no_ads" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	"pengaturan_iklan" : "1",
     "inter_count" : 5,
@@ -30,9 +30,9 @@
 	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
   
-    "bannerid" : "ca-app-pub ADMOB",
-    "interid" : "ca-app-pub ADMOB",
-    "nativeid" : "ca-app-pub ADMOB",
+    "bannerid" : "ca-app-pub-5022256682405885/9486342700",
+    "interid" : "ca-app-pub-5022256682405885/7393697689",
+    "nativeid" : "ca-app-pub-5022256682405885/2537790972",
 
 
 	"fan_banner" : "YOUR_PLACEMENT_ID",
